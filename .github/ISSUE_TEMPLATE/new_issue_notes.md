@@ -1,11 +1,21 @@
 ---
-name: Newletter issue notes
-about: Notes to collection for the current newletter issue
+name: Newsletter issue notes
+about: Notes to collect for the current newsletter issue
 title: '[N] Issue #N - Month DD, 2020'
-labels: 'current issue', 'full issue notes'
+labels: current issue, full issue notes
 assignees: ''
 
 ---
+
+## Describe the problem
+
+<!-- Explain the bug here. -->
+
+## General information
+
+ - OS version:
+ - Browser version:
+ - Device:
 
 To contribute to this issue, simply leave a comment here. Please also review [our contributing guidelines](https://github.com/SwiftWeekly/.github/blob/master/CONTRIBUTING.md).
 
