@@ -7,16 +7,6 @@ assignees: ''
 
 ---
 
-## Describe the problem
-
-<!-- Explain the bug here. -->
-
-## General information
-
- - OS version:
- - Browser version:
- - Device:
-
 To contribute to this issue, simply leave a comment here. Please also review [our contributing guidelines](https://github.com/SwiftWeekly/.github/blob/master/CONTRIBUTING.md).
 
 The current draft for this issue, if any, will be in [`_drafts/`](https://github.com/SwiftWeekly/swiftweekly.github.io/tree/master/_drafts). 
